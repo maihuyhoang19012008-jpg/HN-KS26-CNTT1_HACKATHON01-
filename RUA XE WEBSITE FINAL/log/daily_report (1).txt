@@ -1,0 +1,5 @@
+﻿hai dong lỗi đầu 
+
+
+2026-02-28 08:39:37 [ERROR] Het thoi gian cho (timeout)
+2026-02-28 09:03:37 [ERROR] Dat lich that bai
