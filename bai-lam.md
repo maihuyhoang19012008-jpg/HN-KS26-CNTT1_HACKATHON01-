@@ -29,7 +29,7 @@
 
 # pwd
 
-mkdir  RUA  XE  WEBSITE  FINAL
+mkdir  RUA XE  WEBSITE  FINAL
 
 cd  RUA  XE  WEBSITE  FINAL
 
@@ -49,8 +49,7 @@ ni  Luot_rua_xe_thang  2.xlsx
 
 ```text
 
-Get-ChildItem "ERROR"
-
+Get-ChildItem -Recurse -Force
 ```
 
   
